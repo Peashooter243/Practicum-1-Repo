@@ -1,5 +1,4 @@
 // The Import Statement in Java
-//import java.util.Scanner;
 
 public class main {
   
